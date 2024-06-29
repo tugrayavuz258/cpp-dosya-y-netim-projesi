@@ -1,0 +1,71 @@
+tavuklu_pilav 0.2 tavuk
+tavuklu_pilav 0.2 su
+tavuklu_pilav 0.2 pirinc
+domatesli_makarna 0.1 domates
+domatesli_makarna 0.2 makarna
+domatesli_makarna 0.2 su
+domatesli_makarna 0.1 yag
+sade_makarna 0.2 makarna
+sade_makarna 0.2 su
+sade_makarna 0.1 yag
+sade_pilav 0.2 su
+sade_pilav 0.2 pirinc
+sade_pilav 0.1 yag
+iskender 0.3 doner
+iskender 0.3 yogurt
+iskender 0.1 yag
+iskender 0.3 hamur
+lahmacun 0.1 hamur
+lahmacun 0.2 kiyma
+lahmacun 0.1 yag
+kasarli_pide 0.6 hamur
+kasarli_pide 0.3 kasar
+kasarli_pide 0.1 yag
+kasarli_pide 1 yumurta
+kiymali_pide 0.3 kiyma
+kiymali_pide 0.6 hamur
+kiymali_pide 0.1 yag
+kiymali_pide 1 yumurta
+donerli_pilav 0.2 doner
+donerli_pilav 0.2 su
+donerli_pilav 0.1 yag
+donerli_pilav 0.2 pirinc
+sucuklu_tost 0.2 sucuk
+sucuklu_tost 0.2 hamur
+sucuklu_tost 0.1 yag
+kasarli_tost 0.2 hamur
+kasarli_tost 0.2 kasar
+kasarli_tost 0.1 yag
+soguk_sandvıc 0.3 hamur
+soguk_sandvıc 0.3 sucuk
+soguk_sandvıc 0.1 kasar
+sahanda_yumurta 2 yumurta
+sahanda_yumurta 0.2 yag
+hamburger 0.3 kiyma
+hamburger 0.2 hamur
+hamburger 0.1 yag
+kasarli_gozleme 0.1 yag
+kasarli_gozleme 0.3 kasar
+kasarli_gozleme 0.2 hamur
+kasarli_gozleme 0.1 yumurta
+sucuklu_gozleme 0.1 yag
+sucuklu_gozleme 0.2 hamur
+sucuklu_gozleme 2 yumurta
+sucuklu_gozleme 0.3 sucuk
+baklava 0.1 seker
+baklava 0.2 hamur
+trilece 0.2 seker
+trilece 0.1 hamur
+trilece 0.5 sut
+soguk_baklava 0.4 sut
+soguk_baklava 0.2 hamur
+soguk_baklava 0.5 seker
+puding 0.2 cikolata 
+puding 0.2 seker
+
+
+
+
+
+
+
